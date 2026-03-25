@@ -24,6 +24,7 @@ public class PlaceCases : MonoBehaviour
         GameObject dragObject = pointerEventData.pointerDrag;
 
         dragObject.GetComponent<Pipes>().isPlaced = true;
+        sr.color = new Color(sr.color.r, sr.color.g, sr. color.b, 0f);
 
         // Centrer les tuyaux sur la case
         dragObject.transform.SetParent(this.transform);

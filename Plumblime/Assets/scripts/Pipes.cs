@@ -28,6 +28,7 @@ public class Pipes : MonoBehaviour
     // fonctions du Drag (début action, action et fin d'action)
     public void OnBeginDrag(BaseEventData baseEventData)
     {
+        beingDrag = true;
         isPlaced=false;
 
         // position du souris
@@ -39,8 +40,6 @@ public class Pipes : MonoBehaviour
 
     public void OnDrag(BaseEventData baseEventData)
     {
-        
-        beingDrag = true;
         c2d.enabled = false;
 
         // position du souris
