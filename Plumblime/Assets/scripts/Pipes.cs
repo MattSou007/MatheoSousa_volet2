@@ -6,6 +6,12 @@ public class Pipes : MonoBehaviour
     // variable générale
     Vector3 initialPos;
     Collider2D c2d;
+    
+    // variable path
+    public bool pathRight;
+    public bool pathLeft;
+    public bool pathUp;
+    public bool pathDown;
 
     // variable Drag & Drop
     public bool beingDrag;
@@ -54,7 +60,7 @@ public class Pipes : MonoBehaviour
         beingDrag = false;
         c2d.enabled = true;
 
-        if(isPlaced==false)
+        if(!isPlaced)
         {
             // réinitialiser position de l'object
             transform.position = initialPos;
