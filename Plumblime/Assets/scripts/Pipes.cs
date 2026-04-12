@@ -5,6 +5,8 @@ public class Pipes : MonoBehaviour
 {
     // variable générale
     Vector3 initialPos;
+    public SpriteRenderer sr;
+    public SpriteRenderer csr;
     Collider2D c2d;
     
     // variable path
@@ -22,7 +24,9 @@ public class Pipes : MonoBehaviour
     {
         // définir variables
         initialPos = transform.position;
+        sr = GetComponent<SpriteRenderer>();
         c2d = GetComponent<Collider2D>();
+        csr = transform.GetChild(0).GetComponentInChildren<SpriteRenderer>();
         intialeParent = transform.parent;
     }
 
@@ -36,6 +40,9 @@ public class Pipes : MonoBehaviour
     {
         beingDrag = true;
         isPlaced=false;
+
+        sr.sortingOrder = 5;
+        csr.sortingOrder = 4;
 
         // position du souris
         PointerEventData pointerEventData = baseEventData as PointerEventData;
@@ -59,6 +66,9 @@ public class Pipes : MonoBehaviour
     {
         beingDrag = false;
         c2d.enabled = true;
+
+        sr.sortingOrder = 3;
+        csr.sortingOrder = 1;
 
         if(!isPlaced)
         {
