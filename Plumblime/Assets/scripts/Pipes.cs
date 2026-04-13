@@ -5,8 +5,9 @@ public class Pipes : MonoBehaviour
 {
     // variable générale
     Vector3 initialPos;
-    public SpriteRenderer sr;
-    public SpriteRenderer csr;
+    SpriteRenderer sr;
+    public GameObject child;
+    SpriteRenderer csr;
     Collider2D c2d;
     
     // variable path
@@ -26,7 +27,7 @@ public class Pipes : MonoBehaviour
         initialPos = transform.position;
         sr = GetComponent<SpriteRenderer>();
         c2d = GetComponent<Collider2D>();
-        csr = transform.GetChild(0).GetComponentInChildren<SpriteRenderer>();
+        csr = child.GetComponent<SpriteRenderer>();
         intialeParent = transform.parent;
     }
 

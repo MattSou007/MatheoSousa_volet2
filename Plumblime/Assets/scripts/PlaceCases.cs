@@ -6,6 +6,8 @@ public class PlaceCases : MonoBehaviour
     // variable générale
     Pipes comPipe;
     SpriteRenderer sr;
+    GameObject jeu;
+    bool hasWon=false;
 
     // variable path
     public GameObject caseRight;
@@ -23,6 +25,7 @@ public class PlaceCases : MonoBehaviour
     void Start()
     {
         sr = GetComponent<SpriteRenderer>();
+        jeu = GameObject.FindWithTag("jeu");
 
         if(transform.childCount<=1)
         {
@@ -95,6 +98,12 @@ public class PlaceCases : MonoBehaviour
 
         if(gameObject.CompareTag("end") && activePath)
         {
+            if(!hasWon)
+            {
+                GestionJeu jeuScript = jeu.GetComponent<GestionJeu>();
+                jeuScript.onWin();
+                hasWon=true;
+            }   
             Debug.Log("HAHAHA YOU DID IT!!! WOWIE!!!");
         }
     }

@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: 83648baf3b8ecae449e6ff95e27e2c4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5730367967729661373
+    second: Plomblime_0
+  - first:
+      213: -8578081240201332210
+    second: Plomblime_1
+  - first:
+      213: -7978656940888444402
+    second: Plomblime_2
+  - first:
+      213: 6818806899658607135
+    second: Plomblime_3
+  - first:
+      213: -4667206806482870631
+    second: Plomblime_4
+  - first:
+      213: -6421145878472414510
+    second: Plomblime_5
+  - first:
+      213: -733157683159316283
+    second: Plomblime_6
+  - first:
+      213: 2622346478179760327
+    second: Plomblime_7
+  - first:
+      213: 2624342374227796798
+    second: Plomblime_8
+  - first:
+      213: 3970433394689851079
+    second: Plomblime_9
+  - first:
+      213: -2391286943721324744
+    second: Plomblime_10
+  - first:
+      213: -1851021038074484560
+    second: Plomblime_11
+  - first:
+      213: -5022050356834063317
+    second: Plomblime_12
+  - first:
+      213: 6810852380590805719
+    second: Plomblime_13
+  - first:
+      213: 419166147080584877
+    second: Plomblime_14
+  - first:
+      213: -3175666961405498329
+    second: Plomblime_15
+  - first:
+      213: 5420520461712911911
+    second: Plomblime_16
+  - first:
+      213: -653671413819280995
+    second: Plomblime_17
+  - first:
+      213: -8605475720058277093
+    second: Plomblime_18
+  - first:
+      213: 8817418950899698063
+    second: Plomblime_19
+  - first:
+      213: 4528455970688141141
+    second: Plomblime_20
+  - first:
+      213: 5871730453741771378
+    second: Plomblime_21
+  - first:
+      213: 4684534258841450041
+    second: Plomblime_22
+  - first:
+      213: 3965614359664288650
+    second: Plomblime_23
+  - first:
+      213: 2918403257069704511
+    second: Plomblime_24
+  - first:
+      213: 3284181605377667739
+    second: Plomblime_25
+  - first:
+      213: 7058550163764680472
+    second: Plomblime_26
+  - first:
+      213: 8529529819820835269
+    second: Plomblime_27
+  - first:
+      213: -418422361050272131
+    second: Plomblime_28
+  - first:
+      213: 6565057031653391717
+    second: Plomblime_29
+  - first:
+      213: -6707745368972192062
+    second: Plomblime_30
+  - first:
+      213: 4306242301653851412
+    second: Plomblime_31
+  - first:
+      213: 8727219396175229450
+    second: Plomblime_32
+  - first:
+      213: -8432894651850616125
+    second: Plomblime_33
+  - first:
+      213: 5103871761819017155
+    second: Plomblime_34
+  - first:
+      213: -477286444086852676
+    second: Plomblime_35
+  - first:
+      213: 2668529277092552222
+    second: Plomblime_36
+  - first:
+      213: -2624291742753258577
+    second: Plomblime_37
+  - first:
+      213: 417872252434022095
+    second: Plomblime_38
+  - first:
+      213: 4554049421563728561
+    second: Plomblime_39
+  - first:
+      213: 1908052373110398915
+    second: Plomblime_40
+  - first:
+      213: -6126904181090970691
+    second: Plomblime_41
+  - first:
+      213: -3675084532370572074
+    second: Plomblime_42
+  - first:
+      213: -2109868332303301342
+    second: Plomblime_43
+  - first:
+      213: 3889689343695542852
+    second: Plomblime_44
+  - first:
+      213: 7012860352654753910
+    second: Plomblime_45
+  - first:
+      213: 8406168437463954550
+    second: Plomblime_46
+  - first:
+      213: 420076511323200663
+    second: Plomblime_47
+  - first:
+      213: -3545658528989809664
+    second: Plomblime_48
+  - first:
+      213: -1137657916144838761
+    second: Plomblime_49
+  - first:
+      213: -668407720866126799
+    second: Plomblime_50
+  - first:
+      213: 4582485057602385893
+    second: Plomblime_51
+  - first:
+      213: 775943968638082646
+    second: Plomblime_52
+  - first:
+      213: -9025280576611269711
+    second: Plomblime_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plomblime_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1455
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5bdcc4e4b568f40800000000000000
+      internalID: 5730367967729661373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plomblime_1
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 0
+        width: 1455
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a7b578f8884f880800000000000000
+      internalID: -8578081240201332210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plomblime_2
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 0
+        width: 1455
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02b3a5f8cd164190800000000000000
+      internalID: -7978656940888444402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plomblime_3
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 0
+        width: 1455
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a42266fb441ae50800000000000000
+      internalID: 6818806899658607135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plomblime_4
+      rect:
+        serializedVersion: 2
+        x: 5820
+        y: 0
+        width: 1455
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e9d4e2320ca3fb0800000000000000
+      internalID: -4667206806482870631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plomblime_5
+      rect:
+        serializedVersion: 2
+        x: 7275
+        y: 0
+        width: 1455
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da20be18d183e6a0800000000000000
+      internalID: -6421145878472414510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e5cfc8b51fca4a045a0abe0647f55b5f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":1.0},"gridSpriteSize":{"x":1455.0,"y":480.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Plomblime_0: 5730367967729661373
+      Plomblime_1: -8578081240201332210
+      Plomblime_2: -7978656940888444402
+      Plomblime_3: 6818806899658607135
+      Plomblime_4: -4667206806482870631
+      Plomblime_5: -6421145878472414510
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
